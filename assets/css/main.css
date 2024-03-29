@@ -3390,4 +3390,11 @@ input, select, textarea {
 	margin-right: 3em;
 }
 
-
+.dot {
+	font-family: Lato, Arial; 
+	font-size: 15.0pt; 
+	font-style: normal; 
+	font-weight: 400; 
+	text-decoration: none; 
+	vertical-align: -10%;
+}
